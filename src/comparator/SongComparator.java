@@ -5,7 +5,6 @@ import objects.Song;
 
 /**
  * @author      Sahej Bansal
- * @author		Arian Baoas
  */
 
 public class SongComparator implements Comparator<Song> {

@@ -2,7 +2,6 @@ package objects;
 
 /**
  * @author      Sahej Bansal
- * @author		Arian Baoas
  */
 
 public class Song {

@@ -31,7 +31,6 @@ import comparator.SongComparator;
 
 /**
  * @author      Sahej Bansal
- * @author		Arian Baoas
  */
 
 public class ListController {
